@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there I am Bairon 
 
-<!--
-**MrR3set/MrR3set** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am a Full-stack developer student at Lambda that loves coding and building things. I've been coding for five years now. Programming is my passion!
 
-Here are some ideas to get you started:
+## What I am working on at the moment
+I'm doing some personal side projects that you can check on my github [repositories](https://github.com/MrR3set?tab=repositories).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I am currently learning
+I'm learning "React Native" if you have any tips, please reach me out down below I would appreciate it.
+
+## Where to reach me
+- Have you checked my [linkedin](https://www.linkedin.com/in/byronpaz/)
+- What about my [portfolio](https://baironpaz.com/)
+- And also my email: byronpaz.dev@gmail.com
+
+## Fun facts about me
+  - Self taught C++ on 2015.
+  - I completed my first [century](https://en.wikipedia.org/wiki/Century_ride) on 2019.
+  - I was the Spanish national wrestling champion twice during high school.
