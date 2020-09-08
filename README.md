@@ -15,6 +15,6 @@ I'm learning "React Native" if you have any tips, please reach me out down below
 - And also my email: byronpaz.dev@gmail.com
 
 ## Fun facts about me
-  - Self taught C++ on 2015.
-  - I completed my first [century](https://en.wikipedia.org/wiki/Century_ride) on 2019.
-  - I was the Spanish national wrestling champion twice during high school.
+  - Self taught C++ on 2015
+  - I completed my first [century](https://en.wikipedia.org/wiki/Century_ride) on 2019
+  - I was the Spanish national wrestling champion twice during high school
