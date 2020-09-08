@@ -1,7 +1,7 @@
 # Hi there I am Bairon 
 
 ## About me
-I am a Full-stack developer student at Lambda that loves coding and building things. I've been coding for five years now. Programming is my passion!
+I am a Full-stack developer that loves coding and building things. I've been coding for five years now. Programming is my passion!
 
 ## What I am working on at the moment
 I'm doing some personal side projects that you can check on my github [repositories](https://github.com/MrR3set?tab=repositories).
