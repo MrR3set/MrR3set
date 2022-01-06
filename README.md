@@ -4,7 +4,7 @@
 I am a Full-stack developer that loves coding and building things. I've been coding for five years now. Programming is my passion!
 
 ## What I am working on at the moment
-I'm doing some personal side projects that you can check on my github [repositories](https://github.com/MrR3set?tab=repositories).
+I'm doing freelance work at the current moment.
 
 ## What I am currently learning
 I'm learning "React Native" if you have any tips, please reach me out down below I would appreciate it.
